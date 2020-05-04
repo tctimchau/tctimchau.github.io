@@ -1,0 +1,104 @@
+body {
+    background-color: #7389FF;
+    margin: 0;
+    padding: 0;
+}
+
+/* first section */
+
+#zoom-background {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 76%;
+
+}
+
+/* second section */
+
+#zoomsection2 {
+    padding: 75px 300px 75px 150px;
+    display: flex;
+    background-color: #101010;
+}
+
+#allzoomunitext{
+    object-fit: contain;
+    align-self: flex-start;
+    width: 100%;
+    font-family: 'DM Sans', sans-serif;
+    color: #ffffff;
+    padding-right: 25px;
+}
+
+#zoom-website-title {
+    font-size: 40px;
+    font-weight: 700px;
+    text-decoration: underline;
+
+}
+
+#zoom-website-text {
+    font-size: 20px;
+
+}
+
+#zoom-website-picture {
+    width: 130%;
+
+}
+
+/* third secton */
+
+#zoomsection3 {
+    display: flex;
+    flex-direction: row;
+}
+
+#dollar-signs-section {
+    width: 30%;
+}
+
+#dollar-signs {
+    width: 433px;
+}
+#stats-section {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    font-size: 78px;
+    -webkit-text-stroke: 1.5px;
+    -webkit-text-stroke-color: #7389FF;    
+
+    display: flex;
+    flex-direction: column;
+
+    width: 70%;
+    height: 150px;
+}
+
+
+#orders {
+    background-color: #ffffff;
+    color: #ffffff;
+}
+
+#sales {
+    background-color: #FFEEDD;
+    color: #FFEEDD ;
+
+}
+
+#donated {
+    background-color: #101010;
+    color: #101010;
+
+}
+
+.stat-text {
+    margin-left: 170px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+  }
