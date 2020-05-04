@@ -61,18 +61,21 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-right: 150px ;
 }
 
 #engagements, #impressions, #giveaway {
     width: 165px;
-    margin-right: 50px;
+    padding-right: 50px;
 }
 
-#section-two {
-    display: flex;
-    justify-content: center;
+#carousel {
+  margin:500px;
 }
 
+#stage1-container {
+  display: flex;
+}
 
 
 /* carousel */
